@@ -1,18 +1,18 @@
 ### 1. Home Page
-![Home Page](screenshots/home.jpg)
+![Home Page](Screenshots/home.jpg)
 
 ### 2. Report Page
-![Report Page](screenshots/reportpage.jpg)
+![Report Page](Screenshots/reportpage.jpg)
 
 
 
-![Report Page](screenshots/reportpage2.jpg)
+![Report Page](Screenshots/reportpage2.jpg)
 
 
 
-![Report Page](screenshots/reportpage3.jpg)
+![Report Page](Screenshots/reportpage3.jpg)
 
 
 ### 3. Report History Page
 
-![Report Page](screenshots/reporthistory.jpg)
+![Report Page](Screenshots/reporthistory.jpg)
