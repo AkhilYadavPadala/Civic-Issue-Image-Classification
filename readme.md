@@ -1,18 +1,10 @@
-### 1. Home Page
-![Home Page](Screenshots/home.jpg)
+<h4>1️⃣ Home Page</h4>
+<img src="Screenshots/home.jpg" alt="Home Page" width="400"/>
 
-### 2. Report Page
-![Report Page](Screenshots/reportpage.jpg)
+<h4>2️⃣ Report Page</h4>
+<img src="Screenshots/reportpage.jpg" alt="Report Page" width="400"/>
+<img src="Screenshots/reportpage2.jpg" alt="Report Page" width="400"/>
+<img src="Screenshots/reportpage3.jpg" alt="Report Page" width="400"/>
 
-
-
-![Report Page](Screenshots/reportpage2.jpg)
-
-
-
-![Report Page](Screenshots/reportpage3.jpg)
-
-
-### 3. Report History Page
-
-![Report Page](Screenshots/reporthistory.jpg)
+<h4>3️⃣ Report History Page</h4>
+<img src="Screenshots/reporthistory.jpg" alt="Report History Page" width="400"/>
